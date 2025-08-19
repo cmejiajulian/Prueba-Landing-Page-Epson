@@ -3,6 +3,9 @@
 Este proyecto es una **Landing Page inspirada en Epson**, desarrollada con **HTML5 y CSS3**.  
 Su objetivo es mostrar de manera visual y ordenada los productos principales de la marca (Impresoras, Plotter, Tintas y Proyectores) con un diseño responsive que se adapta a diferentes dispositivos.
 
+👉 **Ver el proyecto en línea:**  
+[🌐 Landing Page en GitHub Pages](https://cmejiajulian.github.io/Prueba-Landing-Page-Epson/)
+
 ---
 
 ## 🚀 Tecnologías utilizadas
@@ -10,8 +13,6 @@ Su objetivo es mostrar de manera visual y ordenada los productos principales de 
 - **CSS3** → Estilos personalizados con tipografía Roboto y colores corporativos de Epson.
 - **Responsive Design** → Ajustes para tablets y celulares pequeños (media queries).
 - **Custom Fonts** → Implementación de la familia tipográfica *Roboto Variable*.
-
----
 
 ---
 
